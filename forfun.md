@@ -31,7 +31,7 @@
 
 <!--[![Bekzod's github ranking](https://api.fizmasoft.uz/mcard/rank?username=bekzodrakhmatof&country_code=south_korea)](https://github.com/bekzodrakhmatof) -->
 
-[twitter]: https://twitter.com/barkhayot
+[twitter]: https://twitter.com/barkhayotj
 [linkedin]: https://www.linkedin.com/in/barkhayot-juraev-960884156/
 [instagram]: https://www.instagram.com/code.viewer/
 
