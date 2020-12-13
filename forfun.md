@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barkhayot&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barkhayot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Barkhayot" alt="Bekzod" /> </p> 
 
 
 
